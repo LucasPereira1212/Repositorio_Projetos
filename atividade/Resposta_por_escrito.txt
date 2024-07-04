@@ -1,0 +1,26 @@
+# Qual empresa escolheria?
+
+
+    Ao meu ver, a empresa 3 seria a melhor escolha 
+
+
+# Porquê?
+
+com minha analise nos dados, compreendi que a empresa 3 tem os melhores salarios e com melhoes empregos 
+
+
+# O que você entendeu do desvio padrão, média, moda, mediana, amplitude,  variância dessa empresa? 
+
+desvio padrão: Ele me da uma dispersão entre os valores citados por cada empresa
+
+média: A média consegue me trazer um dado que seja o valr final
+
+moda: A moda consegue me mostrar o quanto o numero se repetiu para saber se ouve aumentos ou quedas de salarios 
+
+mediana:Mostra para o usuaria o quanto o numero se repetiu, para ver se foi recorrente o mesmo valores
+
+amplitude: Ele me mostra o decorreter da lista, sendo a sequencia dela
+
+variancia: Ela me da a media de cada valor
+
+
